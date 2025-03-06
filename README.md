@@ -10,6 +10,12 @@
 
 https://github.com/Peter537/Soft1-AI-OLA2/
 
+## Business Case
+
+...
+
+Data: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 ## Deliverables
 
 1. The Jupyter Notebook containing a supervised learning project is located in [supervised_learning.ipynb](./supervised_learning.ipynb)
