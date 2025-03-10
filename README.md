@@ -12,7 +12,7 @@ https://github.com/Peter537/Soft1-AI-OLA2/
 
 ## Business Case
 
-...
+We want to make an AI that can distinguish between positive and negative movie reviews. This AI will be used by a movie review website to automatically categorize reviews as positive or negative.
 
 Data: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
@@ -22,4 +22,6 @@ Data: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-
 2. A short presentation of measuring distance between datapoints are made in both:
    - PDF in [measuring_distance_presentation.pdf](./measuring_distance_presentation.pdf)
    - Markdown in [measuring_distance_presentation.md](./measuring_distance_presentation.md)
-3. An application of our Jupyter Notebook has been made in the form of a web application using Streamlit. The application is located in [streamlit_app.py](./streamlit_app.py)
+3. The Streamlit application is:
+   - Documented in [streamlit.md](./streamlit.md)
+   - Programmed in [streamlit_app.py](./streamlit_app.py)
